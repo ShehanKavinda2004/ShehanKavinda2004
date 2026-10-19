@@ -8,7 +8,7 @@ Tableau • Excel • SQL • Power BI • Python
 ## 📊 Featured Projects
 - **[Impact of Airline Performance on Customer Satisfaction](https://public.tableau.com/views/G02_EDS2233_Workbook/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**: Analyzed the factors that drive customer satisfaction in the airline industry using Tableau.
 - **[Factors Contributing to Success in Asia Cup](https://public.tableau.com/views/Cricket_17887998786400/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**: Analyzed which factors help teams succeed in the Asia Cup cricket tournament using Tableau.
-**[Retail Sales Dashboard](https://github.com/ShehanKavinda2004/retail-sales-dashboard-powerbi)**: Built a multi-page Power BI dashboard analyzing profit, branches, sales channels, customer age groups and product performance.
+- **[Retail Sales Dashboard](https://github.com/ShehanKavinda2004/retail-sales-dashboard-powerbi)**: Built a multi-page Power BI dashboard analyzing profit, branches, sales channels, customer age groups and product performance.
   
 ## 🎓 Education
 BM (Hons) in Business Analytics, NSBM Green University
